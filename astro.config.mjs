@@ -40,6 +40,6 @@ export default defineConfig({
 			},
 		},
 	},
-	site: 'https://site.com',
+	site: 'https://toyota-penza.alexsab.ru',
 	base: "/"
 });
