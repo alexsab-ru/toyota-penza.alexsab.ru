@@ -15,7 +15,7 @@
         ]
     },
     "avito": {
-        "move_vin_id_up": 1,
+        "move_vin_id_up": 6,
         "new_address": "г. Пенза, Ульяновская ул, дом №91",
         "new_phone": "+7(8412) 990 900",
         "replacements": {
