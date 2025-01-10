@@ -1,21 +1,21 @@
 name: Generate Astro Files from XML
 
 on:
-  # schedule:
-    # - cron: '0 */4 * * *'  # Запускается каждые 4 часа
-  # push:
-    # paths:
-      # - '.github/scripts/sh/getAirStorage.sh'
-      # - '.github/scripts/sh/getDealerData.sh'
-      # - '.github/scripts/CarFeedProcessorCSV.py'
-      # - '.github/scripts/config_air_storage.json'
-      # - '.github/scripts/config.py'
-      # - '.github/scripts/getOneXML.py'
-      # - '.github/scripts/GSheetFetcher.js'
-      # - '.github/scripts/update_cars_air_storage.py'
-      # - '.github/scripts/update_cars.py'
-      # - '.github/scripts/utils.py'
-      # - '.github/workflows/update_cars.yml'
+  schedule:
+    - cron: '0 */4 * * *'  # Запускается каждые 4 часа
+  push:
+    paths:
+      - '.github/scripts/sh/getAirStorage.sh'
+      - '.github/scripts/sh/getDealerData.sh'
+      - '.github/scripts/CarFeedProcessorCSV.py'
+      - '.github/scripts/config_air_storage.json'
+      - '.github/scripts/config.py'
+      - '.github/scripts/getOneXML.py'
+      - '.github/scripts/GSheetFetcher.js'
+      - '.github/scripts/update_cars_air_storage.py'
+      - '.github/scripts/update_cars.py'
+      - '.github/scripts/utils.py'
+      - '.github/workflows/update_cars.yml'
   workflow_dispatch:
 
 jobs:
