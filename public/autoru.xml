@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <cars><car>
+			<mark_id>Lexus</mark_id>
+			<folder_id>LX, IV</folder_id>
+			<modification_id>600 3.5 AT (415 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>F SPORT HANDLING</complectation_name>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>25000000</price>
+			<credit_discount>250000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<max_discount>500000</max_discount>
+			<currency>RUR</currency>
+			<vin>JTJPBBCX204050868</vin>
+			<description>Абсолютно Новый Lexus LX 600 у нас в наличии!
+
+
+
+Автомобиль оснащен бензиновым 3,5 л. двигателем (415 л.с).
+
+Lexus LX 600 имеет 10-ти ступенчатую коробку передач, постоянный полный привод и легкосплавные колесные диски 22 радиуса.
+
+В комплектацию “F Sport” входит:
+
+4- х зонный климат- контроль для первого и второго ряда сидений;
+камера панорамного обзора с омывателем;
+передние и задние датчики парковки с функцией автоматического торможения;
+система помощи при движении вперед с функцией визуального и звукового оповещения о приближающемся спереди препятствии, а также множество других функций.
+
+
+Подробнее о всех функциях автомобиля Вы можете уточнить в отделе продаж.
+
+Ждём Вас ежедневно пн. - сб. с 9 до 19 часов, вс. с 9 до 16 часов. г. Пенза, ул. Ульяновская, 91</description>
+			<images>
+				<image>https://photo.toyotasever.ru/JTJPBBCX204050868/a653fcfe39f1d468ac3c87fdd58d52fa.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX204050868/2725ab4cb479341dd5111da7fa89527c.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX204050868/b04f5a105f875edbd34a8712df7bfb4d.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX204050868/3b1127f9194474c6cc83c84a29d6c531.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX204050868/aaf7423bb45629b4bdc5a5f9d16bdd56.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX204050868/dfe00b7d97d1fb3799ad18edbc391800.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX204050868/c0b19a837bc5047d37ad9c7d1834d647.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX204050868/6a6be09e7616b5b77fb20cddee4fddb7.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX204050868/ba1c782ecdaeff877f1668aea3d37a4f.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX204050868/74ee2389a743af4a23987314f78f3dbf.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX204050868/96dedfa73aed5d98180fd5af1ce6c701.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX204050868/9cf82233414c2ca2b054f948ffd9c07c.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX204050868/5863cc1bbc487b3816dac38d6d88bded.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX204050868/6a840bdc7b98d043a3d5731bde6d38f5.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX204050868/ed0d4c68fb3a140de2cccc52c28c790b.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX204050868/d5f16e39fed2bd1bfaf09004bf7b66aa.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPBBCX204050868/7737cf857499e83f2e226b3150fe2ac2.jpg</image>
+			</images>
+		<url>https://toyota-penza.alexsab.ru/cars/lexus-lx-iv-600-35-at-415-лс-4wd-f-sport-handling-черныйчерный-2024/</url></car>
+	</cars>
+</data>
