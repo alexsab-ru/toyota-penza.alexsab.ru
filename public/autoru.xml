@@ -3233,6 +3233,29 @@ Toyota RAV4 — кроссовер, который сочетает в себе 
 Откройте для себя мир новых возможностей и приключений с RAV4 — Ваш идеальный спутник уже ждет Вас!</description>
 			<images/>
 		<url>https://toyota-penza.alexsab.ru/cars/toyota-rav4-v-xa50-20-cvt-171-лс-4wd-fashion-plus-белый-2023/</url></car>
+		<car>
+			<mark_id>Toyota</mark_id>
+			<folder_id>RAV4, V (XA50)</folder_id>
+			<modification_id>2.0 CVT (173 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Престиж</complectation_name>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2023</year>
+			<price>5950000</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>JTMR43FV40D056144</vin>
+			<description/>
+			<images/>
+		<url>https://toyota-penza.alexsab.ru/cars/toyota-rav4-v-xa50-20-cvt-173-лс-4wd-престиж-черный-2023/</url></car>
 	<car>
 			<mark_id>LEXUS</mark_id>
 			<folder_id>LX, IV</folder_id>
