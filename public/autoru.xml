@@ -61,6 +61,29 @@ Lexus LX 600 имеет 10-ти ступенчатую коробку перед
 		<url>https://toyota-penza.alexsab.ru/cars/lexus-lx-iv-600-35-at-415-лс-4wd-f-sport-handling-черныйчерный-2024/</url></car>
 	<car>
 			<mark_id>Lexus</mark_id>
+			<folder_id>GX, II Рестайлинг 2</folder_id>
+			<modification_id>460 4.6 AT (296 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Executive 5 Sport</complectation_name>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2022</year>
+			<price>12000000</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>JTJJM5FX805324372</vin>
+			<description/>
+			<images/>
+		<url>https://toyota-penza.alexsab.ru/cars/lexus-gx-ii-рестайлинг-2-460-46-at-296-лс-4wd-executive-5-sport-черный-2022/</url></car>
+		<car>
+			<mark_id>Lexus</mark_id>
 			<folder_id>GX, III</folder_id>
 			<modification_id>550 3.4 AT (354 л.с.) 4WD</modification_id>
 			<body_type>Внедорожник 5 дв.</body_type>
