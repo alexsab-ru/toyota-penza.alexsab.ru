@@ -79,6 +79,35 @@ Lexus RX 350 имеет 21- дюймовые легкосплавные диск
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
+		<Id>b435c5e027f7685de36e81e539adc738</Id>
+		<Address>г. Пенза, Ульяновская ул, дом №91</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Новый автомобиль</Description>
+		<Price>12500000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount/>
+		<InsuranceDiscount/>
+		<MaxDiscount/>
+		<Color>Белый</Color>
+		<Images/>
+		<Make>Lexus</Make>
+		<Model>RX</Model>
+		<GenerationId>18183380</GenerationId>
+		<ModificationId>18183381</ModificationId>
+		<ComplectationId>18571879</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJCHBJAX02014174</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
 		<Id>e8b7dc4ab9d012fec763a2fdc95e4539</Id>
 		<Address>г. Пенза, Ульяновская ул, дом №91</Address>
 		<CarType>Новые</CarType>
@@ -126,35 +155,6 @@ Lexus RX 350 имеет 21- дюймовые легкосплавные диск
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>JTJCHBJA902015123</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-	</Ad>
-	<Ad>
-		<Id>b435c5e027f7685de36e81e539adc738</Id>
-		<Address>г. Пенза, Ульяновская ул, дом №91</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>Новый автомобиль</Description>
-		<Price>12500000</Price>
-		<TradeinDiscount/>
-		<CreditDiscount/>
-		<InsuranceDiscount/>
-		<MaxDiscount/>
-		<Color>Белый</Color>
-		<Images/>
-		<Make>Lexus</Make>
-		<Model>RX</Model>
-		<GenerationId>18183380</GenerationId>
-		<ModificationId>18183381</ModificationId>
-		<ComplectationId>18571879</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Автомат</Transmission>
-		<Year>2024</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>JTJCHBJAX02014174</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
@@ -978,10 +978,10 @@ Aвтомoбиль в наличии в нашем дилерском центр
 		<ContactPhone>8 8412 23-88-88</ContactPhone>
 	</Ad>
 	<Ad>
-		<Id>8653e8184ce14d46214734a0c7c3fefi</Id>
+		<Id>0da1411b7f81240b7f601e2603e029af</Id>
 		<Address>г. Пенза, Ульяновская ул, дом №91</Address>
 		<CarType>Новые</CarType>
-		<Availability>в пути</Availability>
+		<Availability>в наличии</Availability>
 		<OnlyOnAvito>Нет</OnlyOnAvito>
 		<Category>Автомобили</Category>
 		<Description>Нoвый Leхus LX500d в peдкой комплектации Luxury+ (7S).
