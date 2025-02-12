@@ -2620,7 +2620,7 @@ Toyota RAV4 — кроссовер, который сочетает в себе 
 			<complectation_name>Престиж</complectation_name>
 			<wheel>левый</wheel>
 			<color>Черный</color>
-			<metallic>да</metallic>
+			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
@@ -2655,7 +2655,32 @@ Toyota RAV4 — кроссовер, который сочетает в себе 
 ☎ Звоните прямо сейчас, чтобы узнать все детали! 
 
 Откройте для себя мир новых возможностей и приключений с RAV4 — Ваш идеальный спутник уже ждет Вас!</description>
-			<images/>
+			<images>
+				<image>https://photo.toyotasever.ru/JTMR43FV40D056144/0938cb038411e9fa0e0aac5668c55228.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTMR43FV40D056144/2c927b5c51d28784d9980dd2c08e3ecd.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTMR43FV40D056144/8796ce61aa015ac55e50eeaf0d1c311a.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTMR43FV40D056144/46e9f0843f863096901d7026b5703bd1.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTMR43FV40D056144/dd8ff6d6d047be1d4e22c200074811ca.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTMR43FV40D056144/40850ac60e22bf87031afb5ec2d773dd.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTMR43FV40D056144/cabd4ccc4264705079a513bdcb9e2372.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTMR43FV40D056144/2262b3cbd86c3932b9eaf4ddf1a30ec2.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTMR43FV40D056144/3baf527ac1143be8c610d314cd55e891.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTMR43FV40D056144/9f4cc2d8c020e312b191bd45694b8780.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTMR43FV40D056144/bef885cec78f8aad98805b05bd1197ee.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTMR43FV40D056144/e68262ce2ee8c3904f7855b7ab7452e8.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTMR43FV40D056144/ef380ac7443c8fd2324400f7674aad62.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTMR43FV40D056144/2a3db21ad16dfd483af7ee4b24afd31b.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTMR43FV40D056144/4ac2edd6bc988c338b68cb79beca7e20.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTMR43FV40D056144/359fd99594c7b4bb8b2f733cf9930f7a.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTMR43FV40D056144/7064e57de390b0ca1b7362f04effd8fa.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTMR43FV40D056144/4c992f80526c0669811847b4d98a846c.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTMR43FV40D056144/3b8715e7c9249f0342c5988b2b45970b.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTMR43FV40D056144/032c23dc1b2ec5fbb78b957cd207892a.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTMR43FV40D056144/239d28d06a2f27778d5e2e960295a4b5.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTMR43FV40D056144/fba2261eb01cd8e77e33d185b0bbd942.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTMR43FV40D056144/795f3bd3e15cde8d0199a1919a6d829e.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTMR43FV40D056144/262e975ed85ec428887dd2c6a1cd5c41.jpeg</image>
+			</images>
 		<url>https://toyota-penza.alexsab.ru/cars/toyota-rav4-v-xa50-20-cvt-173-лс-4wd-престиж-черный-2023/</url></car>
 	<car>
 			<mark_id>LEXUS</mark_id>
