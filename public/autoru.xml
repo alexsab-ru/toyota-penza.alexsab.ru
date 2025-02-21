@@ -1356,11 +1356,11 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2024</year>
-			<price>12599000</price>
-			<credit_discount>300000</credit_discount>
-			<insurance_discount>100000</insurance_discount>
+			<price>12399000</price>
+			<credit_discount>250000</credit_discount>
+			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
-			<max_discount>600000</max_discount>
+			<max_discount>450000</max_discount>
 			<currency>RUR</currency>
 			<vin>JTEARCAJ9RK004502</vin>
 			<phone>83532793702</phone>
