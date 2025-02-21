@@ -571,8 +571,8 @@ Aвтомoбиль в наличии в нашем дилерском центр
 			<price>16280000</price>
 			<credit_discount>501000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>501000</max_discount>
+			<tradein_discount>200000</tradein_discount>
+			<max_discount>701000</max_discount>
 			<currency>RUR</currency>
 			<vin>JTJTBDDX7R5001388</vin>
 			<phone>83532793594</phone>
@@ -650,10 +650,10 @@ Lехus является надежным, экономичным, вмести�
 			<owners_number>Не было владельцев</owners_number>
 			<year>2024</year>
 			<price>24950000</price>
-			<credit_discount>451000</credit_discount>
+			<credit_discount>651000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>0</tradein_discount>
-			<max_discount>451000</max_discount>
+			<max_discount>651000</max_discount>
 			<currency>RUR</currency>
 			<vin>JTHADAAD005003577</vin>
 			<phone>83532793594</phone>
@@ -723,10 +723,10 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2024</year>
-			<price>20699000</price>
-			<credit_discount>755000</credit_discount>
+			<price>19950000</price>
+			<credit_discount>555000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
+			<tradein_discount>450000</tradein_discount>
 			<max_discount>1005000</max_discount>
 			<currency>RUR</currency>
 			<vin>JTJPA7CX9R4003754</vin>
@@ -853,11 +853,11 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2024</year>
-			<price>22699000</price>
+			<price>21950000</price>
 			<credit_discount>755000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>755000</max_discount>
+			<tradein_discount>200000</tradein_discount>
+			<max_discount>955000</max_discount>
 			<currency>RUR</currency>
 			<vin>JTJPB7CX004050896</vin>
 			<phone>83532793594</phone>
@@ -914,8 +914,8 @@ Lехus является надежным, экономичным, вмести�
 			<price>11199000</price>
 			<credit_discount>450000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>450000</max_discount>
+			<tradein_discount>200000</tradein_discount>
+			<max_discount>650000</max_discount>
 			<currency>RUR</currency>
 			<vin>JTJCHBJAX02014434</vin>
 			<phone>83532793594</phone>
@@ -971,8 +971,8 @@ Lехus является надежным, экономичным, вмести�
 			<price>11899000</price>
 			<credit_discount>450000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>450000</max_discount>
+			<tradein_discount>200000</tradein_discount>
+			<max_discount>650000</max_discount>
 			<currency>RUR</currency>
 			<vin>JTJCJBJA102034169</vin>
 			<phone>83532793594</phone>
@@ -1096,8 +1096,8 @@ Lехus является надежным, экономичным, вмести�
 			<price>5950000</price>
 			<credit_discount>251000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>251000</max_discount>
+			<tradein_discount>100000</tradein_discount>
+			<max_discount>351000</max_discount>
 			<currency>RUR</currency>
 			<vin>JTNB13HK903252143</vin>
 			<phone>83532793702</phone>
@@ -1161,8 +1161,8 @@ Lехus является надежным, экономичным, вмести�
 			<price>5950000</price>
 			<credit_discount>251000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>251000</max_discount>
+			<tradein_discount>200000</tradein_discount>
+			<max_discount>451000</max_discount>
 			<currency>RUR</currency>
 			<vin>JTNA1BCK703005345</vin>
 			<phone>83532793702</phone>
@@ -1225,11 +1225,11 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2024</year>
-			<price>5399000</price>
+			<price>5250000</price>
 			<credit_discount>150000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>150000</max_discount>
+			<tradein_discount>150000</tradein_discount>
+			<max_discount>300000</max_discount>
 			<currency>RUR</currency>
 			<vin>LVGBECEK3RG508535</vin>
 			<phone>83532793702</phone>
