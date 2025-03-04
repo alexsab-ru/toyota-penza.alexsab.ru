@@ -7,29 +7,6 @@
 			<body_type>Внедорожник 5 дв.</body_type>
 			<complectation_name>Executive</complectation_name>
 			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>11900000</price>
-			<credit_discount>250000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<max_discount>500000</max_discount>
-			<currency>RUR</currency>
-			<vin>JTJCHBJA102016525</vin>
-			<description>Новый автомобиль</description>
-			<images/>
-		<url>https://toyota-penza.alexsab.ru/cars/lexus-rx-v-350-24-at-279-лс-4wd-executive-1l121-серый-хром-металл-2024/</url></car>
-		<car>
-			<mark_id>Lexus</mark_id>
-			<folder_id>RX, V</folder_id>
-			<modification_id>350 2.4 AT (279 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Executive</complectation_name>
-			<wheel>левый</wheel>
 			<color>Черный</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
@@ -67,29 +44,6 @@ Lexus RX 350 имеет 21- дюймовые легкосплавные диск
 				<image>https://photo.toyotasever.ru/JTJCHBJA602012101/6a34bf7fe6fe329b18fea8d87342332b.jpg</image>
 			</images>
 		<url>https://toyota-penza.alexsab.ru/cars/lexus-rx-v-350-24-at-279-лс-4wd-executive-черныйчерный-2024/</url></car>
-		<car>
-			<mark_id>Lexus</mark_id>
-			<folder_id>NX, II</folder_id>
-			<modification_id>350 2.4 AT (279 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>F Sport</complectation_name>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>12500000</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>JTJCHBJAX02014174</vin>
-			<description>Новый автомобиль</description>
-			<images/>
-		<url>https://toyota-penza.alexsab.ru/cars/lexus-nx-ii-350-24-at-279-лс-4wd-f-sport-белый-2024/</url></car>
 		<car>
 			<mark_id>Lexus</mark_id>
 			<folder_id>NX, II</folder_id>
@@ -1990,7 +1944,7 @@ Toyota Camry — это не просто средство передвижен�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2024</year>
-			<price>14550000</price>
+			<price>16350000</price>
 			<credit_discount>150000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>150000</tradein_discount>
