@@ -74,29 +74,6 @@ Lexus RX 350 имеет 21- дюймовые легкосплавные диск
 			<body_type>Внедорожник 5 дв.</body_type>
 			<complectation_name>F Sport</complectation_name>
 			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>12500000</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>JTJCHBJAX02014174</vin>
-			<description>Новый автомобиль</description>
-			<images/>
-		<url>https://toyota-penza.alexsab.ru/cars/lexus-nx-ii-350-24-at-279-лс-4wd-f-sport-белый-2024/</url></car>
-		<car>
-			<mark_id>Lexus</mark_id>
-			<folder_id>NX, II</folder_id>
-			<modification_id>350 2.4 AT (279 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>F Sport</complectation_name>
-			<wheel>левый</wheel>
 			<color>Серый</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
@@ -370,7 +347,36 @@ Aвтомoбиль в наличии в нашем дилерском центр
 - Легкосплавные колёсные диски R22 
 - Цветная проекция на лобовое стекло
 - Цифровое салонное зеркало заднего вида с автозатемнением</description>
-			<images/>
+			<images>
+				<image>https://photo.toyotasever.ru/JTJPB7CX004050896/6d903b656ce1dd0e07ebd78f9295b156.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPB7CX004050896/4775c00fcfcdfe050426311b511c19a8.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPB7CX004050896/142fc34e206f61981866be91adf97386.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPB7CX004050896/085914c9d6f3abbd7e896e3700a7286b.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPB7CX004050896/578644d4792d12e950309d75d7864b0c.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPB7CX004050896/803aa2714db6116ae784685eca9f3546.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPB7CX004050896/21008c353acfa85ee100aa863891e7af.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPB7CX004050896/9eb2d65942544944ea5a0c2aa5b65ed3.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJPB7CX004050896/449b2b6459729eab28dd263ad178dd93.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPB7CX004050896/aa426d1e9c237ce8bcfa8009b943468e.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPB7CX004050896/55a3c778185df858396ab1583db921ec.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPB7CX004050896/3167edce0db74418fa043f0d669983f7.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPB7CX004050896/1144efdaf36b8ee20aa18b8487e29ff4.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPB7CX004050896/30a202c87b32438d29152ebe1b0312a0.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPB7CX004050896/920cfc370d6c587b6899d7612f8eee5a.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPB7CX004050896/4c0b224c28fddd5fe1e37c04e7419d33.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPB7CX004050896/a4c9adab182a5151fa3c2936efbfcc1b.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPB7CX004050896/e1228fc9e838b96b7db928c534eb4aec.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPB7CX004050896/90dd3c5763afc2945666e87a68a54c46.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPB7CX004050896/7f82cc78d02fb1b47b1975a27590e808.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPB7CX004050896/3fc4264e238ad2aebb0872a5d1c34ded.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPB7CX004050896/5949f569401e267a1a4169a2fb991624.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPB7CX004050896/76fd5a18befa0dd8ae37f8b4a551b654.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPB7CX004050896/19e29dbcbfdef65d1852dbe76fca6b93.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPB7CX004050896/7127789191ef7ba4acadf3c14c2ea033.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPB7CX004050896/9e4119361ac59f787e6ea59bb5e15b3c.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPB7CX004050896/f2cf65f398e2da08624a77f8837690c5.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJPB7CX004050896/bf98c3a90ef9d2fc1c6188fa0f49dcca.jpg</image>
+			</images>
 		<url>https://toyota-penza.alexsab.ru/cars/lexus-lx-iv-600-35-at-415-лс-4wd-luxury-белый-2024/</url></car>
 		<car>
 			<mark_id>Lexus</mark_id>
