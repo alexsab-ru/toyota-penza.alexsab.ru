@@ -182,6 +182,7 @@ def localize_element_text(element):
         "grey": "Серый",
         "azure": "Лазурный",
         "beige": "Бежевый",
+        "Dark grey": "Темно-серый",
 
         # steeringWheel
         "left": "Левый",
@@ -427,7 +428,7 @@ def create_file(car, filename, friendly_url, current_thumbs, existing_files, con
             thumb = "/img/404.jpg"
     else:
         print("")
-        errorText = f"VIN: {vin}. Не хватает модели: {model} или цвета: {color}"
+        errorText = f"VIN: {vin}. Не хватает модели: {brand} {model} или цвета: {color}"
         print(errorText)
         print("")
         with open('output.txt', 'a') as file:
